@@ -62,3 +62,9 @@ Special thanks to Dr. Qiusheng Wu and the Open Geospatial Solutions team for dev
 For more information, queries, or feedback regarding this project, please contact:
 - **Mohammadreza Narimani** - [mnarimani@ucdavis.edu](mailto:mnarimani@ucdavis.edu)
 - **Sarbani Kumar** - [srbkumar@ucdavis.edu](mailto:srbkumar@ucdavis.edu)
+
+## **Conference Poster**
+
+Check out the poster of this work that we presented at the ESEARCH program of UC Davis in the fall of 2024. Click on the image below to view the full PDF:
+
+[![ESEARCH 2024 Poster Preview](Poster/ESEARCH_Fall2024_Poster_GeoSAM2_Tree_Segmentation.png)](Poster/ESEARCH_Fall2024_Poster_GeoSAM2_Tree_Segmentation.pdf)
