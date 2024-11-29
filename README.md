@@ -55,7 +55,7 @@ Navigate through the folders to access scripts, data, and outputs as described i
 
 ## Explore the App
 Experience the application live:
-- [Deep_Learning_Tree_Mapping_Visualizer]([https://ee-mnarimani.projects.earthengine.app/view/global-vegetation-and-climate-insights-portal](https://ee-mnarimani.projects.earthengine.app/view/deeplearningtreemappingvisualizer)
+- [Deep Learning Tree Mapping Visualizer](https://ee-mnarimani.projects.earthengine.app/view/global-vegetation-and-climate-insights-portal](https://ee-mnarimani.projects.earthengine.app/view/deeplearningtreemappingvisualizer)
 
 ## **Acknowledgments**
 We extend our deepest gratitude to the Digital Agriculture Laboratory and the respective departments at the University of California, Davis for providing the resources and support necessary to conduct this research.
