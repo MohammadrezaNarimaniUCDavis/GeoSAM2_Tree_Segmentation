@@ -34,9 +34,9 @@ This repository is organized into multiple directories containing data, scripts,
 
 To access and use the Google Earth Engine scripts associated with this project:
 - **Clone the GEE Repository**:
-  ```plaintext
-  https://code.earthengine.google.com/?accept_repo=users/mnarimani/UCDavis_ESEARCH_Fall_2024
-  ```
+```plaintext
+https://code.earthengine.google.com/?accept_repo=users/mnarimani/UCDavis_ESEARCH_Fall_2024
+```
 
 ## **Repository Structure**
 
