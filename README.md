@@ -34,7 +34,7 @@ This repository is organized into multiple directories containing data, scripts,
 
 ### 5. **Poster**
    - **Folder**: [`/Poster`](./Poster)
-   - Contains a poster that provides a visual summary of the project. View the project poster here: [`GeoSAM2_Project_Poster.pdf`](./Poster/GeoSAM2_Project_Poster.pdf).
+   - Contains a poster that provides a visual summary of the project. View the project poster here: [`ESEARCH_Fall2024_Poster_GeoSAM2_Tree_Segmentation.pdf`](./Poster/ESEARCH_Fall2024_Poster_GeoSAM2_Tree_Segmentation.pdf).
 
 ## **Google Earth Engine Repository**
 
